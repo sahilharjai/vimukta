@@ -1,0 +1,50 @@
+/* Add here all your CSS customizations */
+
+.lead
+{
+	font-weight: bold;
+}
+
+p
+{
+	color: black !important;
+}
+
+.set-text{
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.set-icon{
+	font-size:40px;
+	color:green;
+}
+
+  .feature  
+  {
+  	padding-bottom: 30px !important;
+  }
+
+  .head-padding
+  {
+  	padding-top:7px !important;
+  }
+
+
+.image-adjust
+{
+    width: 153px;
+    height: 153px;
+    margin-left: 3px !important;
+    margin-top: 4px !important;
+}
+
+.line-height
+{
+	line-height:2.5 !important;
+}
+
+.text-color-gray
+{
+	color:#777 !important;
+}
